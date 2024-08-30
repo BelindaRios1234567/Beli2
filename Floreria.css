@@ -1,0 +1,53 @@
+#Portadabuena{
+    width: 200px;
+    height: 250px;
+  position: left;
+}
+
+body{
+  position: absolute;
+  background: rgb(223, 122, 122);
+}
+
+
+h1{
+
+    font-size: 90px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+  
+  }
+  h2{
+   
+    font-size: 100px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(235, 45, 159);
+  
+  }
+  h3{
+   
+    font-size: 50px;
+    color: white;
+  
+  }
+  p{
+    font-size: 70px;
+  }
+  
+  #Section1 {
+    color: white;
+    font-size: 150px;
+  }
+  #contactenos{
+    color: white;
+    font-size: 50px;
+
+}
+
+  #Header{
+    background: #9eabb1;
+}
+
+#Text2{
+ font-size: large;
+}
